@@ -22,6 +22,14 @@ body {
 	line-height: 24px;
 }
 
+.brosh {
+	max-width: 350px;
+}
+
+.caption {
+	margin-top: -250px;
+}
+
 #home {
 	min-height: 100vh !important;
 	display: flex;
